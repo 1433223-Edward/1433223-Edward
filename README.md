@@ -22,15 +22,13 @@
 - 完成 9 Sessions / 180 Attempts 的 Sensitivity Experiment。
 - 实现多工具调用、Tool Dispatcher、Runtime Guardrails 与 Failure Analysis。
 
-### RAG Engineering Pipeline
+### [RAG Engineering Pipeline](https://github.com/1433223-Edward/reforge-api)
 
 基于 Python 实现的 RAG 工程学习与实验项目，重点关注检索策略、结果评估与失败分析。
 
 - 实现文档处理、Embedding、Dense / BM25 / Hybrid Retrieval 和 Citation。
 - 构建小型 Retrieval Evaluation Harness，比较不同 Embedding 与检索方案。
 - 在 5-query 小型评测集上，Fake Embedding 命中 2/5，BGE Embedding 命中 5/5。
-
-*仓库已创建，代码待上传。*
 
 ## Engineering Focus
 
